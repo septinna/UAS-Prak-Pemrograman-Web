@@ -1,0 +1,207 @@
+/*
+	@name desktop___2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_20 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+
+#rectangle_6 {
+	top: 341px;
+	left: 406px;
+	width: 541px;
+	height: 417px;
+	background:rgba(128.21,137.4,170,1);
+}
+
+
+#login_form {
+	top: 276px;
+	left: 569px;
+	width: 245px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#062D39;
+}
+
+
+#email__ {
+	top: 353px;
+	left: 430px;
+	width: 109.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#password__ {
+	top: 435px;
+	left: 430px;
+	width: 104.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#remember_me {
+	top: 514px;
+	left: 458px;
+	width: 133.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_7 {
+    top: 385px;
+    left: 428px;
+    width: 487px;
+    height: 49px;
+    border-radius: 5px;
+    border: 1px solid #807272;
+    background:rgba(217,217,217,1);
+  }
+  
+  #email_input {
+    width: 177.5px;
+    height: 33.5px;
+    overflow: hidden;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: italic;
+    text-align: left;
+    color:#000000;
+    border: none;
+    outline: none;
+    background: transparent;
+    margin-left: 10px;
+    margin-top: 7px;
+  }
+
+
+  #rectangle_8 {
+    top: 462px;
+    left: 428px;
+    width: 487px;
+    height: 49px;
+    border-radius: 5px;
+    border: 1px solid #807272;
+    background:rgba(217,217,217,1);
+  }
+  
+  #password_input {
+	top: 472px;
+    width: 174.5px;
+    height: 33.5px;
+    overflow: hidden;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: italic;
+    text-align: left;
+    color:#000000;
+    border: none;
+    outline: none;
+    background: transparent;
+    margin-left: 10px;
+    margin-top: 7px;
+  }
+
+
+#_rectangle_9 {
+	top: 550px;
+	left: 428px;
+	width: 487px;
+	height: 49px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 1px solid #caf51d;
+	background:rgba(25.81,84.44,92.44,1);
+}
+
+
+#login {
+	top: 548px;
+	left: 626px;
+	width: 136px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#rectangle_10 {
+	top: 641px;
+	left: 406px;
+	width: 540px;
+	height: 117px;
+	background:rgba(32.54,62.71,79.69,1);
+}
+
+
+#_forgot_password__ {
+	top: 692px;
+	left: 783px;
+	width: 149px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_image_7 {
+	top: 31px;
+	left: 25px;
+	width: 64px;
+	height: 37px;
+}
+
+
+

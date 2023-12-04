@@ -1,0 +1,241 @@
+/*
+	@name desktop___3
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___3 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_19 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+
+#rectangle_12 {
+	top: 0px;
+	left: 2px;
+	width: 1438px;
+	height: 1024px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_18 {
+	top: 508px;
+	left: 143px;
+	width: 284px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	border: 1px solid #000000;
+	background:rgba(59.77,89.48,91.37,1);
+}
+
+
+#_sign_up {
+	top: 508px;
+	left: 131px;
+	width: 310px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	color:#0E0E0E;
+}
+
+
+#sign_up_ek1 {
+	top: 195px;
+	left: 196px;
+	width: 187px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_13 {
+	top: 311px;
+	left: 21px;
+	width: 543px;
+	height: 62px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #213f50;
+	background:rgba(217,217,217,1);
+}
+
+
+#email {
+	top: 285px;
+	left: 26px;
+	width: 64.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#enter_your_email {
+	top: 330px;
+	left: 26px;
+	width: 143.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-style: italic;
+	text-align: left;
+	color: #000000;
+	margin-left: 10px;
+	margin-top: 7px;
+}
+#email_input {
+	width: 90%;
+	height: 100%;
+	border: none;
+	outline: none;
+	background: transparent;
+	margin-left: 10px;
+}
+
+
+#rectangle_14 {
+	top: 419px;
+	left: 21px;
+	width: 543px;
+	height: 62px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #213f50;
+	background:rgba(217,217,217,1);
+}
+
+
+#password {
+	top: 393px;
+	left: 26px;
+	width: 64.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#enter_your_password {
+	top: 438px;
+	left: 26px;
+	width: 174.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-style: italic;
+	text-align: left;
+	color: #000000;
+}
+
+#password_input {
+	width: 90%;
+	height: 100%;
+	border: none;
+	outline: none;
+	background: transparent;
+	margin-left: 10px;
+}
+
+#__image_3 {
+	top: 635px;
+	left: 112px;
+	width: 48.75px;
+	height: 50px;
+}
+
+
+#or_sign_up_with {
+	top: 576px;
+	left: 163px;
+	width: 269px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#sign_with_google {
+	top: 642px;
+	left: 192px;
+	width: 221px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_32 {
+	top: 0px;
+	left: 1430px;
+	width: 1425px;
+	height: 1024px;
+	background:rgba(217,217,217,1);
+}
+
+
+#_image_7 {
+	top: 31px;
+	left: 26px;
+	width: 64px;
+	height: 37px;
+}
+
+
+
+/* Add your custom CSS here */

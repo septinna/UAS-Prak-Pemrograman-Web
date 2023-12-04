@@ -1,0 +1,251 @@
+/*
+	@name desktop___7
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___7 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_44 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-251.60026803746deg , rgba(126.15,186.86,221,1) 0%, rgba(78.87,113,144.5,0) 100%);
+	background: -o-linear-gradient(-251.60026803746deg , rgba(126.15,186.86,221,1) 0%, rgba(78.87,113,144.5,0) 100%);
+	background: -moz-linear-gradient(-251.60026803746deg , rgba(126.15,186.86,221,1) 0%, rgba(78.87,113,144.5,0) 100%);
+	background: -ms-linear-gradient(-251.60026803746deg , rgba(126.15,186.86,221,1) 0%, rgba(78.87,113,144.5,0) 100%);
+	background: linear-gradient(-251.60026803746deg , rgba(126.15,186.86,221,1) 0%, rgba(78.87,113,144.5,0) 100%);
+}
+
+
+#rectangle_45 {
+	opacity:0.89999997615814;
+	top: 412px;
+	left: 41px;
+	width: 399px;
+	height: 436px;
+	border: 1px solid #a33838;
+	background:rgba(29.71,95.95,116.88,0.9);
+}
+
+
+#rectangle_48 {
+	top: 512px;
+	left: 170px;
+	width: 218px;
+	height: 34px;
+	background:rgba(93.26,145.56,26.69,1);
+}
+
+
+#rectangle_46 {
+	top: 412px;
+	left: 512px;
+	width: 397px;
+	height: 434px;
+	background:rgba(67.71,10.64,94.56,1);
+}
+
+
+#rectangle_49 {
+	top: 512px;
+	left: 643px;
+	width: 218px;
+	height: 34px;
+	background:rgba(93.26,145.56,26.69,1);
+}
+
+
+#rectangle_47 {
+	top: 412px;
+	left: 985px;
+	width: 397px;
+	height: 434px;
+	background:rgba(54.94,180.62,127.84,1);
+}
+
+
+#rectangle_51 {
+	top: 512px;
+	left: 1118px;
+	width: 218px;
+	height: 34px;
+	background:rgba(93.26,145.56,26.69,1);
+}
+
+
+#rp_300_0000 {
+	top: 512px;
+	left: 182px;
+	width: 170px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rp_500_0000 {
+	top: 512px;
+	left: 671px;
+	width: 171px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rp_900_0000 {
+	top: 512px;
+	left: 1148px;
+	width: 170px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#image_60 {
+	top: 579px;
+	left: 130px;
+	width: 200px;
+	height: 199.36px;
+}
+
+
+#image_61 {
+	top: 579px;
+	left: 615px;
+	width: 200px;
+	height: 199.36px;
+}
+
+
+#image_62 {
+	top: 579px;
+	left: 1094px;
+	width: 200px;
+	height: 199.36px;
+}
+
+
+#_3_bulan {
+	top: 649px;
+	left: 147px;
+	width: 177px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_6_bulan {
+	top: 649px;
+	left: 636px;
+	width: 179px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_1_tahun {
+	top: 649px;
+	left: 1111px;
+	width: 181px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#premium_plans {
+	top: 113px;
+	left: 510px;
+	width: 434px;
+	height: 110px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	color:#C44D4D;
+}
+
+
+#jelajahi_lebih_banyak_loker_dengan_upgrade_ke_premium {
+	top: 219px;
+	left: 284px;
+	width: 928px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 32px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#image_57 {
+	top: 483px;
+	left: 51px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#image_58 {
+	top: 483px;
+	left: 517px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#image_59 {
+	top: 483px;
+	left: 994px;
+	width: 100px;
+	height: 100px;
+}
+

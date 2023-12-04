@@ -1,0 +1,122 @@
+/*
+	@name desktop___4
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___4 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_43 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+
+#rectangle_13 {
+	top: 391px;
+	left: 867px;
+	width: 543px;
+	height: 62px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #213f50;
+	background:rgba(217,217,217,1);
+}
+
+
+#forget_your_password_ {
+	top: 307px;
+	left: 878px;
+	width: 520px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_14 {
+	top: 512px;
+	left: 867px;
+	width: 543px;
+	height: 62px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #1a545c;
+	background:rgba(6.93,45.27,57.37,1);
+}
+
+
+#reset_password {
+	top: 527px;
+	left: 1068px;
+	width: 187px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#D9D9D9;
+}
+
+
+#image_54 {
+	top: 337px;
+	left: 373px;
+	width: 235px;
+	height: 235px;
+}
+
+
+#image_55 {
+	top: 397px;
+	left: 876px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#enter_your_email {
+	top: 410px;
+	left: 945px;
+	width: 143.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-style: italic;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
